@@ -1,0 +1,8 @@
+[dependencies]
+  [dependencies.utils]
+    name = "utils"
+    full_name = "utils_0.0.1"
+    version = "0.0.1"
+    reg = "ghcr.io"
+    repo = "kcl-lang/utils"
+    oci_tag = "0.0.1"
